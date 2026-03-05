@@ -1,4 +1,4 @@
-package Selenium;
+package com.thetestingacademy.ex02_Selenium_basics;
 
 public class TestSelenium06_System_GetPro_Selenium3 {
     public static void main(String[] args) {
